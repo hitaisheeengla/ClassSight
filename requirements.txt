@@ -1,3 +1,4 @@
+streamlit
 # Utilities
 numpy
 pandas
@@ -16,4 +17,5 @@ bcrypt
 segno
 pillow
 
-streamlit
+librosa #audio files ko edit krna load krna noise nikalna segments kaatna
+resemblyzer #audios ki embeddings nikalna
