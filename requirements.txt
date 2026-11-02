@@ -19,3 +19,4 @@ pillow
 
 librosa #audio files ko edit krna load krna noise nikalna segments kaatna
 resemblyzer #audios ki embeddings nikalna
+setuptools==80.9.0
